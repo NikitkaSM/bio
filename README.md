@@ -1,2 +1,0 @@
-# bio
-My Bio Website
